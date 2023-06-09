@@ -1,7 +1,7 @@
 {
   "version": 1,
   "serviceConfiguration": {
-    "apiName": "todoapp",
+    "apiName": "todoamplify",
     "serviceName": "AppSync",
     "defaultAuthType": {
       "mode": "API_KEY",
